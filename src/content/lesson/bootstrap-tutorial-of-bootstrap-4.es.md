@@ -225,7 +225,7 @@ Así es como se ve modal por defecto con Bootstrap.
 > :link:[**Lee más sobre el "Modal" aquí**](https://getbootstrap.com/docs/4.0/components/modal/)
 
 ```html
-div class="modal" tabindex="-1" role="dialog">
+<div class="modal" tabindex="-1" role="dialog">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
